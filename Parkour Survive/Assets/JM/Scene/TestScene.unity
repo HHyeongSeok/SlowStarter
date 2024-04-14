@@ -403,7 +403,7 @@ PrefabInstance:
     - target: {fileID: 5556358533144897771, guid: 9e70d0b595d510742bfdf66867f64069,
         type: 3}
       propertyPath: m_LocalRotation.x
-      value: -0.0013939552
+      value: -0.001393944
       objectReference: {fileID: 0}
     - target: {fileID: 5556358533144897771, guid: 9e70d0b595d510742bfdf66867f64069,
         type: 3}
@@ -413,7 +413,7 @@ PrefabInstance:
     - target: {fileID: 5556358533144897771, guid: 9e70d0b595d510742bfdf66867f64069,
         type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0.007827416
+      value: 0.007827418
       objectReference: {fileID: 0}
     - target: {fileID: 5556358533377525084, guid: 9e70d0b595d510742bfdf66867f64069,
         type: 3}
@@ -577,7 +577,7 @@ MonoBehaviour:
   - {fileID: 1593258586}
   - {fileID: 1876942628}
   - {fileID: 1264547112}
-  obstaclePrefab: {fileID: 7217291056384756076, guid: 561e82596f9914544b15798f00433754,
+  obstaclePrefab: {fileID: 221268902095190768, guid: 8e60843aa0e558643b4534eab23d0ad8,
     type: 3}
   spawnInterval: 4
 --- !u!4 &1260059214

@@ -4,8 +4,6 @@ using UnityEngine;
 using UnityEngine.UI;
 
 
-using UnityEngine.UI;
-
 public class Player : MonoBehaviour
 {
     public float maxHP = 100f;   // 플레이어의 최대 HP
@@ -80,7 +78,7 @@ public class Player : MonoBehaviour
     }
 
     // 현재 HP를 슬라이더에 업데이트하는 메소드
-    private void UpdateHPSlider()
+    public void UpdateHPSlider()
     {
         hpSlider.value = currentHP;
     }

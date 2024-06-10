@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: baf5da4c88bbb574887fffd962c74eb6
+guid: 2ff5aaed1b107c6489d460540bb7ce3f
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
@@ -8,8 +8,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: standardSurface1
-    second: {fileID: 1165080902808173757, guid: 1d2ab63b861fb5f40954f749c04af063,
-      type: 3}
+    second: {fileID: 2100000, guid: 652107f36a28e44479c0b827dee5852a, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -30,7 +29,7 @@ ModelImporter:
     animationDoRetargetingWarnings: 0
     importAnimatedCustomProperties: 0
     importConstraints: 0
-    animationCompression: 3
+    animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
     animationScaleError: 0.5
@@ -99,7 +98,7 @@ ModelImporter:
     globalScale: 1
     rootMotionBoneName: 
     hasTranslationDoF: 0
-    hasExtraRoot: 1
+    hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
   autoGenerateAvatarMappingIfUnspecified: 1

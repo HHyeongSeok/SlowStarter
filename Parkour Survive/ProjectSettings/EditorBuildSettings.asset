@@ -6,11 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/JM/Scene/Title.unity
-    guid: 9c9f59eda9790494fb0ddcab54858a15
-  - enabled: 1
-    path: Assets/JM/Scene/SelectStage.unity
-    guid: 085f6ed54e05a504084e4201391a0e90
+    path: Assets/Dynamic Parkour System/Scenes/Testing.unity
+    guid: ff8b50065f42ff846be8fa425db054d5
   m_configObjects:
     com.unity.input.settings: {fileID: 11400000, guid: bd6aa9f8443cca14baac4c6627a3c067,
       type: 2}

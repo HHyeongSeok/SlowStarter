@@ -106,18 +106,18 @@ MonoBehaviour:
       y: 21
       width: 903
       height: 416
-    m_Scale: {x: 1, y: 1}
-    m_Translation: {x: 451.5, y: 208}
+    m_Scale: {x: 1.1592739, y: 1.1592739}
+    m_Translation: {x: 379.58783, y: 187.80037}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -451.5
-      y: -208
-      width: 903
-      height: 416
+      x: -327.43585
+      y: -161.99828
+      width: 778.93585
+      height: 358.8453
     m_MinimalGUI: 1
   m_defaultScale: 1
   m_LastWindowPixelSize: {x: 903, y: 437}
@@ -534,9 +534,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -204.6798, y: -216.19981, z: 162.4909}
+    m_Target: {x: -195.45111, y: -262.32217, z: 518.2829}
     speed: 2
-    m_Value: {x: -204.6798, y: -216.19981, z: 162.4909}
+    m_Value: {x: -195.45111, y: -262.32217, z: 518.2829}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -582,13 +582,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.37887335, y: -0.30805722, z: 0.13557953, w: 0.8624236}
+    m_Target: {x: -0.22910824, y: 0.15139599, z: -0.036187325, w: -0.9611897}
     speed: 2
-    m_Value: {x: 0.37875962, y: -0.30796474, z: 0.13553883, w: 0.8621647}
+    m_Value: {x: -0.22903879, y: 0.1513501, z: -0.036176354, w: -0.9608983}
   m_Size:
-    m_Target: 195.62349
+    m_Target: 374.67105
     speed: 2
-    m_Value: 195.62349
+    m_Value: 374.67105
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -632,8 +632,8 @@ MonoBehaviour:
     y: 481
     width: 904
     height: 458
-  m_MinSize: {x: 201, y: 221}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 2}
   m_Panes:
   - {fileID: 2}
@@ -663,7 +663,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 100}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-  controlID: 69
+  controlID: 50
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -727,10 +727,10 @@ MonoBehaviour:
     m_OverlaysVisible: 1
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 920}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
-      m_ExpandedIDs: 3846feff1a53feff805ffeff6618ffff6c19ffff1cad000020ad000022ad000024ad000026ad0000c4ad000080ae0000c8ae0000c6b20000a6b70000dea90200e2a9020042ab02008aab020088af02006eb40200
+      scrollPos: {x: 0, y: 0}
+      m_SelectedIDs: dab00000
+      m_LastClickedID: 45274
+      m_ExpandedIDs: 1212ffff7413ffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -886,7 +886,8 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SkipHidden: 0
     m_SearchArea: 1
-    m_Folders: []
+    m_Folders:
+    - Assets/DH
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -895,7 +896,7 @@ MonoBehaviour:
   m_StartGridSize: 64
   m_LastFolders: []
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\055\SlowStarter\SlowStarter\Parkour Survive
+  m_LastProjectPath: "C:\\\uAE40\uB3D9\uD718\\SlowStarter\\Parkour Survive"
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
@@ -928,9 +929,9 @@ MonoBehaviour:
       m_ResourceFile: 
   m_AssetTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 
+    m_SelectedIDs: dab00000
     m_LastClickedID: 0
-    m_ExpandedIDs: be01ffffffffffff00000000f4050000380600004c06000054070000
+    m_ExpandedIDs: fffffffff40500004c060000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -955,8 +956,8 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 
-    m_LastClickedInstanceID: 0
+    m_SelectedInstanceIDs: dab00000
+    m_LastClickedInstanceID: 45274
     m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: 
     m_RenameOverlay:

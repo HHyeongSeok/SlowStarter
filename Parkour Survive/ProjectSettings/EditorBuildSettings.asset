@@ -8,6 +8,18 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/JM/Scene/Title.unity
     guid: 9c9f59eda9790494fb0ddcab54858a15
+  - enabled: 1
+    path: Assets/JM/Scene/SelectStage.unity
+    guid: 085f6ed54e05a504084e4201391a0e90
+  - enabled: 1
+    path: Assets/JM/Scene/Stage01.unity
+    guid: d2f8347a901dbea4ea95bfc31dab48ac
+  - enabled: 1
+    path: Assets/DH/Stage 2.unity
+    guid: 68861204344ff124bb1d36013530ac3f
+  - enabled: 1
+    path: Assets/HS/Scenes/stage 3.unity
+    guid: 46755575f58877d43b083af0773accba
   m_configObjects:
     com.unity.input.settings: {fileID: 11400000, guid: bd6aa9f8443cca14baac4c6627a3c067,
       type: 2}
